@@ -6,3 +6,17 @@ aside {
 	width:30%;
 	float:left;
 }
+footer{
+	clear:both;
+	text-align: center;
+}
+footer ul li {
+	list-style: none;
+	display: inline;
+}
+
+#container {
+	width: 940px;
+	margin:auto;
+}
+
